@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v12
 entries:
   myrepo:
   - apiVersion: v2                  this is created by bk
